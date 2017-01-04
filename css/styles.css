@@ -11,3 +11,20 @@ body {
   background-size: 100%;
   background-repeat: no-repeat;
 }
+
+.block {
+  display:block;
+  height: 300px;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.wrap {
+  height: 250px;
+}
