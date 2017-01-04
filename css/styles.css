@@ -12,8 +12,18 @@ body {
   background-repeat: no-repeat;
 }
 
+.sidebar {
+  float:left;
+  width: 25%;
+  /*height: 900px;*/
+}
+
+.profiles {
+  float: right;
+  width: 70%;
+}
+
 .block {
-  display:block;
   height: 300px;
 }
 
