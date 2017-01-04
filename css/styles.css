@@ -1,0 +1,13 @@
+body {
+  width: 75%;
+  margin: 0 auto;
+}
+
+#banner {
+  width: 100%;
+  height: 400px;
+  background-image: url(http://static.celebuzz.com/uploads/2010/09/09/msg-128406830425-3.jpg);
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
